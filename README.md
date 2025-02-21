@@ -1,4 +1,4 @@
-# Projet réalisé dans le cadre du Bootcamp "Data Analytics" à la Wild Code School
+# Projet réalisé dans le cadre du Bootcamp "Data Analytics" organisé par la Wild Code School
 
 Equipe composée d'Amadou, Julien B.-C., Mariâma, Medhi & Mainell
 
