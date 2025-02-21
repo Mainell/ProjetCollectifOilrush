@@ -1,4 +1,4 @@
-Projet réalisé dans le cadre d'un Bootcamp "Data Analytics" à la Wild Code School
+*Projet réalisé dans le cadre d'un Bootcamp "Data Analytics" à la Wild Code School*
 
 Voici un extrait de notre tableau de bord réalisé avec PowerBI :
 ![Cliquez ici pour voir une capture d'écran du dashboard](images/powerbi.png)
