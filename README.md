@@ -1,4 +1,5 @@
 Projet réalisé dans le cadre du Bootcamp "Data Analytics"
+
 WILD CODE SCHOOL
 
 *Voici un extrait de notre tableau de bord réalisé avec PowerBI :*
